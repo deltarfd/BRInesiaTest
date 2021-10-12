@@ -9,7 +9,7 @@ BRInesia Test iOS Native Fibonacci, Anagram, and Permutation. This project was c
 3. Make Two Textfield to input numbers, namely n and r, and a button to process n and r to calculate the results of permutation without repetition. The output is the result of the calculation in Text.
 
 # Screenshot
-<img src="https://github.com/deltarfd/BRInesiaTest/blob/main/Screenshot/FibonacciScreen.png" width="300">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://github.com/deltarfd/BRInesiaTest/blob/main/Screenshot/AnagramScreen.png" width="300">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://github.com/deltarfd/BRInesiaTest/blob/main/Screenshot/PermutationScreen.png" width="300">
+<img src="https://github.com/deltarfd/BRInesiaTest/blob/main/Screenshot/FibonacciScreen.png" width="250">&nbsp; &nbsp; &nbsp;<img src="https://github.com/deltarfd/BRInesiaTest/blob/main/Screenshot/AnagramScreen.png" width="250">&nbsp; &nbsp; &nbsp;<img src="https://github.com/deltarfd/BRInesiaTest/blob/main/Screenshot/PermutationScreen.png" width="250">
 
 # About
 I made this project to fulfill the BRInesia Mobile Developer Test.
